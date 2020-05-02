@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrambleF", "Logic1\ScrambleF.csproj", "{DB53ABCC-3E45-456A-9C6E-DA3DF62BC0E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic1Tests", "Logic1Tests\Logic1Tests.csproj", "{220B7DFB-70EA-4326-8FD2-57BDF7C81806}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solution", "Solution\Solution.csproj", "{70EA1FFA-02A7-4F99-919B-69A98056DF0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB53ABCC-3E45-456A-9C6E-DA3DF62BC0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB53ABCC-3E45-456A-9C6E-DA3DF62BC0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB53ABCC-3E45-456A-9C6E-DA3DF62BC0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB53ABCC-3E45-456A-9C6E-DA3DF62BC0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220B7DFB-70EA-4326-8FD2-57BDF7C81806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220B7DFB-70EA-4326-8FD2-57BDF7C81806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220B7DFB-70EA-4326-8FD2-57BDF7C81806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220B7DFB-70EA-4326-8FD2-57BDF7C81806}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70EA1FFA-02A7-4F99-919B-69A98056DF0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70EA1FFA-02A7-4F99-919B-69A98056DF0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70EA1FFA-02A7-4F99-919B-69A98056DF0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70EA1FFA-02A7-4F99-919B-69A98056DF0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {162D3A0A-8047-4739-9037-280F6ECEDC1D}
+	EndGlobalSection
+EndGlobal
